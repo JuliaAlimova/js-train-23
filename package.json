@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node 2.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon --ignore public",
     "1": "nodemon 1",
@@ -15,7 +16,6 @@
     "6": "nodemon 6",
     "7": "nodemon 7",
     "8": "nodemon 8"
-
   },
   "repository": {
     "type": "git",
